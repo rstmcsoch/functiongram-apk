@@ -1,0 +1,9 @@
+{
+  "appId": "com.functiongram.app",
+  "appName": "FunctionGram",
+  "webDir": "www",
+  "server": {
+    "url": "https://functiongram.vercel.app",
+    "androidScheme": "https"
+  }
+}
